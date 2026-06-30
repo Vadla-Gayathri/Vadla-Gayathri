@@ -1,230 +1,288 @@
+
 # Hi, I'm Vadla Gayathri 👋
 
-### Computer Science Engineer (AI) | Java Developer | AI & Machine Learning Enthusiast
+<div align="center">
 
-> Passionate about building intelligent applications that solve real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,100:0EA5E9&text=Vadla%20Gayathri&fontColor=ffffff&fontSize=52&animation=fadeIn"/>
 
----
+### Computer Science Engineer (AI)
 
-## 👩‍💻 About Me
+Software Engineer • Java Developer • AI & Machine Learning Enthusiast
 
-- 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence)
-- 🏫 Ravindra College of Engineering for Women (2022–2026)
-- 💡 Interested in AI, Machine Learning, Software Development, and Backend Development
-- 🌱 Currently learning Advanced Java, and Data Structures & Algorithms
-- 🚀 Looking for Software Engineer, Java Developer, and AI/ML opportunities
+Building intelligent software solutions with a passion for backend development, artificial intelligence, and real-world problem solving.
 
----
+</div>
 
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-
-### Database
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### AI & Machine Learning
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)
-
-### Web Development
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Flask](https://skillicons.dev/icons?i=flask)
-
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## 📊 GitHub Stats
+# 💫 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=Vadla-Gayathri&show_icons=true&hide_border=true)
+```yaml
+Name: Vadla Gayathri
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vadla-Gayathri&hide_border=true)
+Degree:
+  B.Tech Computer Science & Engineering (Artificial Intelligence)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadla-Gayathri&layout=compact&hide_border=true)
+Current Focus:
+  - Software Engineering
+  - Backend Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+
+Looking For:
+  - Software Engineer
+  - Java Developer
+  - AI/ML Engineer
+
+Learning:
+  - Spring Boot
+  - Advanced Java
+  - System Design
+  - Data Structures & Algorithms
+```
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,flask,mysql,git,github,vscode,tensorflow,opencv&perline=6"/>
+</p>
+
+### Libraries & Frameworks
+
+`TensorFlow` • `Scikit-Learn` • `NumPy` • `Pandas` • `OpenCV` • `Flask`
 
 ---
 
 ## 🚀 Featured Projects
 
+---
+
 ### 📝 SmartExam
-**AI-Powered Online Examination & Proctoring Platform**
 
-A secure and intelligent online examination system designed to streamline assessments with AI-assisted features. The platform supports role-based access for students and administrators, exam management, automated evaluation, and real-time monitoring.
+**AI-Powered Online Examination & Intelligent Proctoring Platform**
 
-**Highlights**
-- Secure online examinations
-- AI-assisted monitoring
-- Automated result generation
-- Role-based authentication
-- Responsive dashboard
+SmartExam is a comprehensive web-based examination platform designed to simplify online assessments while maintaining academic integrity through AI-assisted monitoring. The platform provides dedicated dashboards for administrators and students, enabling secure exam management, automated evaluation, real-time performance tracking, and seamless user experience.
 
-**Tech Stack**
-`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
+#### ✨ Key Features
+
+- 🔐 Secure authentication with role-based access
+- 📝 Online exam creation and scheduling
+- 🤖 AI-assisted proctoring and monitoring
+- 📊 Automatic evaluation and result generation
+- 📈 Student performance analytics
+- 📱 Responsive and intuitive dashboard
+
+#### 🛠 Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
 ### 🤰 MaternAI
+
 **AI-Based Pregnancy Risk Prediction System**
 
-An intelligent healthcare application that predicts pregnancy risk levels using machine learning algorithms based on maternal clinical parameters. The system provides real-time predictions through an interactive dashboard.
+MaternAI is a healthcare-focused machine learning application that predicts pregnancy risk levels using maternal clinical parameters. The application analyzes patient data, performs intelligent risk prediction in real time, and presents the results through an interactive dashboard to support early clinical decision-making.
 
-**Highlights**
-- Machine Learning prediction model
-- Data preprocessing & visualization
-- Interactive Streamlit dashboard
-- Real-time risk prediction
+#### ✨ Key Features
 
-**Tech Stack**
-`Python` `Scikit-Learn` `Pandas` `NumPy` `Streamlit`
+- 🤖 Machine learning-based risk prediction
+- 📊 Data preprocessing and visualization
+- 📈 Interactive Streamlit dashboard
+- ⚡ Real-time prediction results
+- 📑 Prediction reports
+- 📉 Model performance evaluation
+
+#### 🛠 Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ### 👁️ Retina AI
-**Multi-Task Retinal Disease Diagnosis**
 
-A deep learning system that simultaneously detects multiple retinal diseases including Diabetic Retinopathy, Hypertensive Retinopathy, and Glaucoma from retinal fundus images using a shared CNN architecture.
+**Multi-Task Deep Learning Framework for Automated Retinal Disease Diagnosis**
 
-**Highlights**
-- Multi-task CNN architecture
-- Image preprocessing & augmentation
-- Automated disease classification
-- Clinical screening support
+Retina AI is a research-driven deep learning framework developed to simultaneously detect Diabetic Retinopathy, Hypertensive Retinopathy, and Glaucoma from retinal fundus images using a shared convolutional neural network architecture. The framework improves diagnostic efficiency through multi-task learning while reducing computational complexity.
 
-**Tech Stack**
-`Python` `TensorFlow` `OpenCV` `Deep Learning`
+#### ✨ Key Features
+
+- 🧠 Multi-task CNN architecture
+- 👁 Simultaneous detection of multiple retinal diseases
+- 🖼 Image preprocessing and augmentation
+- 📊 Shared feature extraction with task-specific heads
+- ⚙ Deep learning-based disease classification
+- 🔬 AI-assisted clinical screening support
+
+#### 🛠 Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/Deep_Learning-CNN-0A66C2?style=flat-square)
 
 ---
 
 ### 🐶 GoodPup
-**AI Dog Breed Classification System**
 
-Developed during the Infosys Springboard AI Internship, GoodPup classifies dog breeds from uploaded images using deep learning while providing breed information and interactive chatbot assistance.
+**AI-Powered Dog Breed Classification System**
 
-**Highlights**
-- CNN-based image classification
-- Flask REST APIs
-- Breed information system
-- Chatbot integration
-- Nearby pet service locator
+Developed during the Infosys Springboard AI Internship, GoodPup is an intelligent web application that classifies dog breeds from uploaded images using deep learning. The platform also provides breed information, chatbot assistance, prediction history, and location-based pet care recommendations.
 
-**Tech Stack**
-`Python` `TensorFlow` `Flask` `HTML` `CSS` `JavaScript`
+#### ✨ Key Features
+
+- 🐕 CNN-based breed classification
+- 📷 Image upload and real-time prediction
+- 🤖 AI-powered chatbot
+- 📚 Breed information system
+- 📍 Nearby pet care service locator
+- 🗂 Prediction history
+
+#### 🛠 Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
 ### ✈️ ABC Travels
+
 **Travel & Logistics Booking Automation System**
 
-A desktop-based travel management application that automates booking operations, billing, authentication, and journey rescheduling using Java and MySQL.
+ABC Travels is a desktop-based travel management application that automates ticket booking, billing, customer management, and journey rescheduling. The application provides a streamlined workflow for travel operations through secure authentication and efficient database management.
 
-**Highlights**
-- User authentication
-- Booking management
-- Journey rescheduling
-- Billing system
-- Database-driven application
+#### ✨ Key Features
 
-**Tech Stack**
-`Java` `JDBC` `MySQL`
+- 🔐 Secure user authentication
+- 🎫 Booking and cancellation management
+- 💳 Automated billing system
+- 🔄 Journey rescheduling
+- 📂 Customer and travel record management
+- 💾 MySQL database integration
 
-## 💼 Experience
+#### 🛠 Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+## 💼 Professional Experience
 
 ### 🧠 Artificial Intelligence Intern | Infosys Springboard
-**Nov 2025 – Jan 2026**
+**📍 Virtual Internship** • **🗓️ Nov 2025 – Jan 2026**
 
-**Project:** **GoodPup – AI Dog Breed Classification System**
+Contributed to the development of **GoodPup**, an AI-powered web application that classifies dog breeds from uploaded images using deep learning. Participated in the complete development lifecycle, including model development, backend API implementation, frontend integration, testing, and deployment.
 
-Completed a hands-on internship focused on designing and developing an AI-powered web application that classifies dog breeds from uploaded images using deep learning techniques. Worked across the complete development lifecycle, from model training to backend API development and frontend integration.
+#### 🚀 Key Contributions
 
-#### Key Responsibilities
-- Developed a **Convolutional Neural Network (CNN)** using **TensorFlow** for accurate dog breed classification.
-- Built **Flask-based REST APIs** to handle image uploads, prediction requests, chatbot interactions, and breed information retrieval.
-- Designed a responsive and user-friendly interface using **HTML, CSS, and JavaScript**.
-- Integrated additional features including:
-  - Breed search and information
-  - Prediction history
-  - AI-powered chatbot assistance
-  - Map-based nearby pet care services
-- Performed image preprocessing, model testing, and prediction optimization to improve accuracy and user experience.
-- Followed software engineering best practices including modular development, debugging, testing, and documentation.
+- 🐶 Built and trained a **Convolutional Neural Network (CNN)** using **TensorFlow** for dog breed classification.
+- ⚙️ Developed **Flask REST APIs** to process image uploads, perform predictions, and retrieve breed information.
+- 💬 Integrated an AI-powered chatbot to provide interactive assistance and breed-related information.
+- 🎨 Designed a responsive and user-friendly web interface using **HTML, CSS, and JavaScript**.
+- 📍 Implemented additional features including prediction history and nearby pet care service recommendations.
+- 🧪 Improved model performance through image preprocessing, testing, and prediction optimization.
+- 📄 Followed software engineering best practices, including modular architecture, debugging, testing, and technical documentation.
 
-**Technologies Used**
+#### 🛠 Technologies
 
-`Python` `TensorFlow` `Flask` `HTML` `CSS` `JavaScript`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+---
 ---
 
 ## 🔬 Research Experience
 
-### 📄 Multi-Task Deep Learning Framework for Automated Retinal Disease Diagnosis Using Fundus Images
+### 📄 Multi-Task Deep Learning Framework for Automated Retinal Disease Diagnosis
 
-Collaborated on a research project focused on developing an intelligent deep learning framework capable of simultaneously detecting multiple retinal diseases from fundus images. The objective was to improve early disease diagnosis while reducing computational cost through a shared feature-learning architecture.
+Designed and developed a research-oriented deep learning framework for the simultaneous detection of multiple retinal diseases—including **Diabetic Retinopathy, Hypertensive Retinopathy, and Glaucoma**—from retinal fundus images using **Multi-Task Learning (MTL)**. The project focuses on improving diagnostic efficiency through a shared feature extraction architecture while maintaining high predictive performance across multiple disease classification tasks.
 
-#### Research Contributions
-- Conducted an extensive literature review on AI-assisted retinal disease diagnosis and multi-task learning techniques.
-- Collected, organized, and preprocessed retinal fundus image datasets for multiple eye diseases.
-- Applied image preprocessing and augmentation techniques to improve model robustness and generalization.
-- Contributed to designing a **shared CNN backbone** with disease-specific classification heads for simultaneous prediction of:
-  - Diabetic Retinopathy
-  - Hypertensive Retinopathy
-  - Glaucoma
-- Assisted in model training, validation, hyperparameter tuning, and performance evaluation using standard classification metrics.
-- Analyzed research findings and prepared technical documentation and presentation materials for project reporting.
-- Explored the potential of AI-assisted retinal screening to support clinicians in early diagnosis and telemedicine applications.
+#### 🚀 Research Contributions
 
-**Research Areas**
+- 📚 Conducted an in-depth literature review on AI-assisted retinal disease diagnosis and multi-task learning techniques.
+- 🖼 Collected, cleaned, and preprocessed retinal fundus image datasets from multiple sources.
+- 🧠 Designed a shared CNN backbone with disease-specific classification heads for simultaneous disease prediction.
+- ⚙️ Applied image preprocessing and augmentation techniques to improve model robustness and generalization.
+- 📊 Trained, validated, and evaluated deep learning models using standard classification metrics.
+- 📄 Documented experimental findings and prepared technical reports for research presentation.
 
-`Deep Learning` `Computer Vision` `Medical Image Analysis` `TensorFlow` `CNN` `OpenCV` `Multi-Task Learning`
+#### 🛠 Research Areas
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0A66C2?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-6A5ACD?style=flat-square)
+![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-009688?style=flat-square)
+![Multi-Task Learning](https://img.shields.io/badge/Multi--Task_Learning-1E88E5?style=flat-square)
 
 ---
-
-### 🎯 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Software Engineering
-- Backend Development
-- Data Structures & Algorithms
 
 ## 🏆 Certifications
 
-- AI Intern – Infosys Springboard
-- Machine Learning with Python – IBM SkillBuild
-- Career Essentials in Generative AI – Microsoft & LinkedIn
-- Python Essential Training – LinkedIn Learning
-- Hands-on Java – Frontlines EdTech Pvt. Ltd.
+| Certification | Organization |
+|---------------|--------------|
+| 🤖 Machine Learning with Python | IBM SkillBuild |
+| 💼 Artificial Intelligence Internship | Infosys Springboard |
+| ✨ Career Essentials in Generative AI | Microsoft × LinkedIn |
+| 🐍 Python Essential Training | LinkedIn Learning |
+| ☕ Hands-on Java | Frontlines EdTech Pvt. Ltd. |
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Areas of Interest
+
+- 🤖 Artificial Intelligence & Generative AI
+- 🧠 Machine Learning & Deep Learning
+- 👁️ Computer Vision & Medical Image Analysis
+- ☕ Java Backend Development
+- 🌐 REST API Development
+- 🏗️ Software Engineering
+- ⚡ Data Structures & Algorithms
+- ☁️ Cloud Computing
+- 🌱 Open Source Contributions
+
+---
+
+# 🤝 Connect With Me
 
 - 📧 **Email:** vadlagayathri776@gmail.com
-- 💼 **LinkedIn:** www.linkedin.com/in/vadlagayathri2525
+- 💼 **LinkedIn:** https://linkedin.com/in/vadlagayathri2525
 - 💻 **GitHub:** https://github.com/Vadla-Gayathri
 
 ---
+<div align="center">
 
-## 💡 Interests
+> ### *"Learn. Build. Improve. Repeat."*
 
-- Artificial Intelligence
-- Machine Learning
-- Java Development
-- Backend Engineering
-- Problem Solving
-- Open Source
+</div>
+<div align="center">
 
----
+### Thanks for visiting! 👋
 
-> *"Consistency beats perfection. Every project is a step toward becoming a better engineer."*
+Feel free to explore my repositories or connect with me.
 
-⭐ Thank you for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,100:0EA5E9"/>
+
+</div>
