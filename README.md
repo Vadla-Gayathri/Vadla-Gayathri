@@ -16,35 +16,29 @@ Building intelligent software solutions with a passion for backend development, 
 
 ---
 
-# 💫 About Me
+## 👩‍💻 About Me
 
-```yaml
-Name: Vadla Gayathri
+```text
+🎓 Computer Science Engineering (Artificial Intelligence)
 
-Degree:
-  B.Tech Computer Science & Engineering (Artificial Intelligence)
+💻 Passionate about
+   • Software Engineering
+   • Backend Development
+   • Artificial Intelligence
+   • Machine Learning
+   • Computer Vision
 
-Current Focus:
-  - Software Engineering
-  - Backend Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
+🌱 Currently Learning
+   • Advanced Java
+   • Artificial Intelligence
+   • Data Structures & Algorithms
 
-Looking For:
-  - Software Engineer
-  - Java Developer
-  - AI/ML Engineer
-
-Learning:
-  - Spring Boot
-  - Advanced Java
-  - System Design
-  - Data Structures & Algorithms
+🎯 Looking For
+   • Software Engineer
+   • Java Developer
+   • Python Developer
+   • AI / ML Engineer
 ```
-
----
-
 # ⚡ Tech Stack
 
 <p align="center">
