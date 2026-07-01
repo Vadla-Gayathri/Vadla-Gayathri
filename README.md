@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,100:0EA5E9&text=Vadla%20Gayathri&fontColor=ffffff&fontSize=52&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0F172A,25:1E40AF,50:4338CA,75:7C3AED,100:06B6D4&text=Vadla%20Gayathri&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 
 ### Computer Science Engineer (AI)
 
