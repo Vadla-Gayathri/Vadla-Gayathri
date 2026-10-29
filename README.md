@@ -78,6 +78,9 @@ while supporting academic integrity through AI-assisted monitoring.
 
 `Java` • `Spring Boot` • `MySQL` • `HTML` • `CSS` • `JavaScript`
 
+🌐 **Live Demo:** https://smart-exam-planner.streamlit.app/
+💻 **GitHub:** https://github.com/Vadla-Gayathri/SmartExam
+
 ---
 
 ### 🤰 MaternAI
@@ -91,6 +94,9 @@ clinical parameters and presents results through an interactive dashboard.
 
 `Python` • `Scikit-Learn` • `Pandas` • `NumPy` • `Streamlit`
 
+🌐 **Live Demo:** 
+
+💻 **GitHub:** https://github.com/Vadla-Gayathri/MaternAI-AI-Based-Pregnancy-Risk-Prediction
 ---
 
 ### 👁️ Retina AI
@@ -105,6 +111,9 @@ fundus images.
 
 `Python` • `TensorFlow` • `OpenCV` • `CNN` • `Multi-Task Learning`
 
+🌐 **Live Demo:** 
+
+💻 **GitHub:** https://github.com/Vadla-Gayathri/Eye-Disease-Prediction-System
 ---
 
 ### 🐶 GoodPup
@@ -119,6 +128,9 @@ breed information and AI-assisted features.
 
 `Python` • `TensorFlow` • `Flask` • `HTML` • `CSS` • `JavaScript`
 
+🌐 **Live Demo:** 
+
+💻 **GitHub:** https://github.com/Vadla-Gayathri/GoodPup
 ---
 
 ### ✈️ ABC Travels
